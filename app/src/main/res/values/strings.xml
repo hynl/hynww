@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Hynweiwei</string>
+    <!--drawlayout strings -->
+    <string name="vhh_avator">何以奈良</string>
+    <string name="vhh_content">随风奔跑，自由是方向</string>
+    <!--navigation strings -->
+    <string name="mn_set_one">分组一</string>
+    <string name="mn_setone_first">我是第一项</string>
+    <string name="mn_setone_second">我是第二项</string>
+    <string name="mn_setone_third">我是第三项</string>
+    <string name="mn_set_two">分组二</string>
+    <string name="mn_settwo_forth">我在分组二，one</string>
+    <string name="mn_settwo_fifth">我在分组二，two</string>
+    <string name="mn_settwo_sixth">我在分组二，three</string>
+    <string name="mn_settwo_seventh">我在分组二，four</string>
+    <string name="mn_settwo_eighth">我在分组二，five</string>
+    <string name="mn_last_ninth">我在最后，9</string>
+    <!--toolbar strings -->
+    <string name="toolbar_title">测试</string>
 </resources>

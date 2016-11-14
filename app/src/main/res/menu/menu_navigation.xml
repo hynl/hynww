@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/set_one" android:title="@string/mn_set_one">
+        <menu>
+            <item android:id="@+id/setone_first"
+                android:title="@string/mn_setone_first"/>
+            <item android:id="@+id/setone_second"
+                android:title="@string/mn_setone_second"/>
+            <item android:id="@+id/setone_third"
+                android:title="@string/mn_setone_third"/>
+        </menu>
+    </item>
+    <item android:id="@+id/set_two" android:title="@string/mn_set_two">
+        <menu>
+            <item android:id="@+id/settwo_first" android:title="@string/mn_settwo_forth"/>
+            <item android:id="@+id/settwo_second" android:title="@string/mn_settwo_fifth"/>
+            <item android:id="@+id/settwo_third" android:title="@string/mn_settwo_sixth"/>
+            <item android:id="@+id/settwo_forth" android:title="@string/mn_settwo_seventh"/>
+            <item android:id="@+id/settwo_fifth" android:title="@string/mn_settwo_eighth"/>
+
+        </menu>
+    </item>
+</group>
+    <item android:id="@+id/ninth" android:title="@string/mn_last_ninth"/>
+
+</menu>
